@@ -1,0 +1,56 @@
+Multimodel attendence-system is nothing but a new way of calculating attendance of a person.
+Attendence is a major important to every working peoples and students,so here a new path is developed for attendance system that is finger print system
+so here basically fingerprint application know to everyone as we use in our mobile ans Laptops,tabs etc..
+ya by this biometric fingerprint system we can see yhe particular person data in the following resume will be directly open in the system.this may in many places this kind of techniques were used
+
+Types of biometric sensors:
+
+The word biometric is derived from the Greek words bio and metric.Where bio means life and metric means to measure
+Biometrics are used to identify his or her physical and behaviour characterics of a person.
+This method of identification is choosen over traditional methods,including PIN numbers and passwords for its exactness and cae sensitivenss
+based on the designing,this system can be used as an identification system or authentication system.
+these system are divied into various types which includes vein pattern,fingerprints,hand geometry,DNA,voice patterns,irs pattern,signature dynamics and face detection.
+this articles discuess what is a biometric sensor,different types of 
+Biometric sensor and its working.
+
+A biometric sensor is a transducer that change a biometric treat of a person into an electrical signal.
+Biometric sensor is a transducer that changes a biometric treat of a person into an electrical signal.
+measures lights,temperature,speed,electrical capacity and other types of energines.
+different technologies can be applied to get this conversion using sophicated combinations,network of sensor and digital cameras.
+every biometric device device requires one type of sensor .the biometrics application mainly include:used in a high defination camera for facial recgnition in a microphone for voice capture.
+Some biometric is specially designed to scan the vein patterns under your skin.Biometric sensors are an essential feature of identity technology.
+Biometric sensors or access control system are classfied into two types such as Physiological Biometrics and 
+Behavioral Biometrics,The physiological biometrics manily include face recognintion,fingerprint,hand geometry,
+Iris recognintion, and DNA.whereas behavioural biometrics include ketstroke,signature and voice recogninion 
+
+Fingerprint Recognition:
+
+Fingerprint Recognition includes taking a fingerprint images of a person and records its feayures like arches,whorls,
+and loops along with the outline of edges,minutie,and furrows.Matching of the fingerprint can be attained in three ways
+such as minutiae ,correlation and edges
+
+Minutiae based fingerprint matching stores a palne includes a set of points and the set of points are correspomding in the template and the i/p minutiae
+correlation-based fingerprint matching is an innovative method that captures ridges,as minutiae-based fingerprint capturing of the fingerprint readers  approvals at ATMs
+
+Face recognition:
+
+A face recognition system is one type of biometric computer application that can identify or verify a person from a 
+digital image by comparing and analyzing patterns.these biometric systems are used in security systems.present facial recognintion 
+system work with face prints and these system can recognintion 80 nodal points and a human face.Modal points are nothin but endpoints
+used to measure varaiale on a person's face which includes the images and width of yhe noise,checkboneshape and eye socket depth.
+
+Face recognition system work by capturing data for the nodal on a digital image of a person's face and resulting data
+can be stored as a face print.When the recognition are favorable,these system use face prints to identificatiom accurately.
+
+signature Recognition:
+
+Signature recognition is one type of biometric method used to analyze and measure the physical activity of signing like the
+pressure applied,stroke order and speed,some biometric are used to compare visual images of signatures
+signature recognition can be operated in two different ways,such as static and dynamic.
+
+In static mode,consumers write their signature on papers,digitize it through a camera or an optical scanner.
+This system identification the signature examining its shaped.
+ 
+ In dyanamic mode,consumers write their signature is a tablet which is digitized,which obtains the signature in real-time.
+ Another option is gaining by means of stylus-operated PDAs.Some biometrics also operate with smart-phons with a capacitivescreens
+ The biometric system can be failed if it has been not placed in a suitable place and if it may be cracked by anycases so it should be keep safe
